@@ -5,4 +5,5 @@ public class Usss {
     private String aa;
     private String bb;
     private String adfas;
+    private String sssssssss;
 }
